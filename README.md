@@ -10,3 +10,9 @@ Here are some ideas to get you started:
 - I’m currently learning more about Typescript, php, python (...)
 
 - How to reach me: brnmpto@gmail.com
+
+## Technologies
+
+These are some of the technologies and tools that I work with:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
