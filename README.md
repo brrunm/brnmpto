@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 
 These are some of the technologies and tools that I work with:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+![JavaScript](https://img.shields.io/badge/JS-Javascript-lightgrey)
