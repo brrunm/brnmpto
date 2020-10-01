@@ -3,7 +3,6 @@
 
 Currently working as Front-End Developer and studying Analysis and Systems Development
 
----	
 
 Portuguese, living in Brazil - Curitiba, PR
 
