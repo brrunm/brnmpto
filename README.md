@@ -6,8 +6,8 @@ Portuguese, living in Brazil - Curitiba, PR
 
 Here are some ideas to get you started:
 
-- I’m currently loving to work with React.Js and React Native, 
-- I’m currently learning more about Typescript, php, python, vue (...)
+- I’m currently **loving** to work with React.Js and React Native, 
+- I’m currently learning more about Next.js, Typescript, php, python, vue, flutter (...)
 
 - How to reach me: brnmpto@gmail.com
 
@@ -22,4 +22,6 @@ These are some of the technologies and tools that I work with:
 ![React](https://img.shields.io/badge/JS-React-lightgrey)
 ![JavaScript](https://img.shields.io/badge/JS-Javascript-lightgrey)
 ![NodeJs](https://img.shields.io/badge/JS-Nodejs-lightgrey)
+![Webpack](https://img.shields.io/badge/Web-Pack-lightgrey)
+
 
