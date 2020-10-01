@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 
 - How to reach me: brnmpto@gmail.com
 
+---	
+
 ## Technologies
 
 These are some of the technologies and tools that I work with:
@@ -22,7 +24,7 @@ These are some of the technologies and tools that I work with:
 ![React](https://img.shields.io/badge/JS-React-lightgrey)
 ![JavaScript](https://img.shields.io/badge/JS-Javascript-lightgrey)
 ![NodeJs](https://img.shields.io/badge/JS-Nodejs-lightgrey)
-![Webpack](https://img.shields.io/badge/WebPack-lightgrey)
+![Webpack](https://img.shields.io/badge/-WebPack-lightgrey)
 ![REST](https://img.shields.io/badge/REST-API-lightgrey)
 
 
