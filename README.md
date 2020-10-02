@@ -28,6 +28,10 @@ These are some of the technologies and tools that I work with:
 ![NodeJs](https://img.shields.io/badge/JS-Nodejs-lightgrey)
 ![Webpack](https://img.shields.io/badge/-WebPack-lightgrey)
 ![REST](https://img.shields.io/badge/REST-API-lightgrey)
+![GSAP](https://img.shields.io/badge/GSAP-lightgrey)
+![Twilwind](https://img.shields.io/badge/Tailwind-CSS-lightgrey)
+
+
 
 
 
