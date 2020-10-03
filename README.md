@@ -1,4 +1,4 @@
-### Hi, Im Bruno 🪐
+### Hi, Im Bruno 
 
 
 Currently working as Front-End Developer and studying Analysis and Systems Development
