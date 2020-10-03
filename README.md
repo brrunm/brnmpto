@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 
 - How to reach me: brnmpto@gmail.com
 - Some smaller projects: [codepen](https://codepen.io/brnmpto)
+- And here is my [linkedin](https://www.linkedin.com/in/bruunomiguel/) page. 
 
 ---	
 
