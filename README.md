@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - I’m currently learning more about Next.js, Typescript, php, python, vue, flutter (...)
 
 - How to reach me: brnmpto@gmail.com
+- Some smaller projects: [codepen](https://codepen.io/brnmpto)
 
 ---	
 
