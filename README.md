@@ -1,7 +1,7 @@
 ### hi, i'm bruno 
 
 
-Currently working as Front-End Developer and studying Systems Analysis and Development
+Currently working as Front-End Developer and studying Analysis and Development of Systems.
 
 
 Portuguese, living in Brazil - Curitiba, PR
