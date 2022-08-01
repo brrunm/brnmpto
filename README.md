@@ -1,7 +1,7 @@
 ### hi, i'm bruno 
 
 
-Currently working as Front-End Developer and studying Analysis and Development of Systems.
+Currently working as Front-End Developer working @ Conquer.
 
 
 Portuguese, living in Brazil - Curitiba, PR
