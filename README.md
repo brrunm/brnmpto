@@ -1,16 +1,12 @@
 ### hi, i'm bruno 
 
 
-Currently working as Front-End Developer working @ Conquer.
+Currently working as React Developer @ Conquer.
 
 
 Portuguese, living in Brazil - Curitiba, PR
 
-Here are some ideas to get you started:
-
-
-- I’m currently learning more about Next.js, Typescript, php, React Native, Node JS (...)
-- How to reach me: brnmpto@gmail.com
+- How to reach me: brrunm@gmail.com
 - And here is my [linkedin](https://www.linkedin.com/in/bruunomiguel/) page. 
 
 ---	
